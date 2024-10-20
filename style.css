@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head-section{
+    background:rgba(62, 39, 245, 0.8);
+}
+
+#home-section{
+background: rgba(231, 231, 231, 0.8);
+}
+
+.foot-section{
+    background:rgba(62, 39, 245, 0.8);
+}
